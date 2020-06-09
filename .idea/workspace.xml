@@ -4,19 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/src/pages/login/login.jsx" line="26" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="17b38cae-b9ad-4d9c-8acc-880bf09e0645" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/api/home.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/api/home.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/api/network.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/api/network.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/base/reset.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/reset.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/leftNav/leftNav.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/leftNav/leftNav.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/router/router.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/router/router.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/view/home/home.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/home/home.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/view/home/homeView.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/home/homeView.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/view/login/loginView.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/login/loginView.jsx" afterDir="false" />
-    </list>
+    <list default="true" id="17b38cae-b9ad-4d9c-8acc-880bf09e0645" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -357,12 +345,12 @@
       <workItem from="1591408102464" duration="6811000" />
       <workItem from="1591494046207" duration="442000" />
       <workItem from="1591590562998" duration="1365000" />
-      <workItem from="1591700885196" duration="256000" />
+      <workItem from="1591700885196" duration="682000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="390505000" />
+    <option name="totallyTimeSpent" value="390931000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
