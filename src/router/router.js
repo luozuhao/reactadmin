@@ -8,6 +8,18 @@ import {BrowserRouter as Router, Switch, Route, Redirect, } from "react-router-d
 import HomeView from '../view/home/homeView'
 import LoginView from '../view/login/loginView'
 import Signup from '../view/signup/signup'
+import Canvas from '../view/canvas/canvas'
+
+// 组件
+import HomeContent from '../components/homeContent/homeContent'
+import GoodsInfo from '../components/goods/goodsInfo'
+import Goodscategory from '../components/goods/goodscategory'
+import Charts from '../components/graphical/charts'
+import Line from '../components/graphical/line'
+import Role from '../components/role/role'
+import User from '../components/user/user'
+import Order from '../components/order/order'
+import AddUpdata from '../components/goods/addUpdata'
 function router() {
     return (
     /* {       <Router >
@@ -33,13 +45,29 @@ function router() {
                     <Redirect to = '/home'></Redirect>
                 )}>
                 </Route>
-                <Route component={HomeView} path='/home'>
-
+                <Route path='/home' render={(props)=>(
+                    <HomeView {...props}>
+                            <Switch >
+                                <Route path='/home' exact component={HomeContent}></Route>
+                                <Route path='/home/goodsinfo' exact component={GoodsInfo}></Route>
+                                <Route path='/home/goodscategory' exact component={Goodscategory}></Route>
+                                <Route path='/home/charts' exact component={Charts}></Route>
+                                <Route path='/home/line' exact component={Line}></Route>
+                                <Route path='/home/role' exact component={Role}></Route>
+                                <Route path='/home/user' exact component={User}></Route>
+                                <Route path='/home/order' exact component={Order}></Route>
+                                <Route path='/home/goods/addupdata' exact component={AddUpdata}></Route>
+                            </Switch>
+                    </HomeView>
+                )}>
                 </Route>
                 <Route component={LoginView} path='/login'>
 
                 </Route>
                 <Route component={Signup} path='/sign'>
+
+                </Route>
+                <Route component={Canvas} path='/canvas'>
 
                 </Route>
             </Switch>
