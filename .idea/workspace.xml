@@ -4,7 +4,9 @@
     <bookmark url="file://$PROJECT_DIR$/src/pages/login/login.jsx" line="26" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="17b38cae-b9ad-4d9c-8acc-880bf09e0645" name="Default Changelist" comment="" />
+    <list default="true" id="17b38cae-b9ad-4d9c-8acc-880bf09e0645" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -345,12 +347,12 @@
       <workItem from="1591408102464" duration="6811000" />
       <workItem from="1591494046207" duration="442000" />
       <workItem from="1591590562998" duration="1365000" />
-      <workItem from="1591700885196" duration="682000" />
+      <workItem from="1591700885196" duration="731000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="390931000" />
+    <option name="totallyTimeSpent" value="390980000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -363,7 +365,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49860725" visible="true" weight="0.20461309" />
       <window_info id="Structure" order="1" sideWeight="0.5013928" side_tool="true" weight="0.24956971" />
