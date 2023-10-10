@@ -94,7 +94,7 @@ class Home extends Component {
     renderButton() {
         const isShow = this.state.isShow;
         if (isShow) {
-            return (<div>组件一</div>);
+            return (<div>组件一修改</div>);
         }
         else {
             return (<div>组件二</div>);
