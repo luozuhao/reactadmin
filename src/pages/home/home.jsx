@@ -111,7 +111,7 @@ class Home extends Component {
         })
     }
     render() {
-        const isShow = this.state.isShow ? <div>组件一ffff</div> : <div>组件二</div>
+        const isShow = this.state.isShow ? <div>组件一gitdiff</div> : <div>组件二</div>
         return (
             <div>
                 {

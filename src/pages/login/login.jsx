@@ -29,7 +29,7 @@ class Login extends Component {
                 </div>
                 <div className="content">
                     <div className='form'>
-                        <div>用户登录git commit</div>
+                        <div>用户登录git commit 学习</div>
                         <div className='formCont'>
                             <Form
                                 name="normal_login"
