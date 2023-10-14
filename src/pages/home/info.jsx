@@ -4,7 +4,7 @@ class Info extends Component {
     render() {
         return (
             <div>
-                嵌套home 路由
+                嵌套home 路由ddddd git info.jsx
             </div>
         );
     }
