@@ -149,7 +149,7 @@ class LoginView extends Component {
                         </Form.Item>
                         <Form.Item>
                             <Button type="primary" htmlType="submit" className="login-form-button">
-                                登录
+                                登录 commit
                             </Button>
                         </Form.Item>
                     </Form>
