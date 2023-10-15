@@ -78,7 +78,7 @@ class HomeView extends Component {
                         <Content className='cont'>
                             {this.props.children}
                         </Content>
-                        <Footer>Footer这是commit</Footer>
+                        <Footer>Footer这是commit new</Footer>
                     </Layout>
                 </Layout>
             </div>
