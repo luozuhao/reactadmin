@@ -78,7 +78,7 @@ class HomeView extends Component {
                         <Content className='cont'>
                             {this.props.children}
                         </Content>
-                        <Footer>Footer</Footer>
+                        <Footer>Footer对对对</Footer>
                     </Layout>
                 </Layout>
             </div>
